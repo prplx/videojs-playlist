@@ -1,0 +1,21 @@
+{
+  "name": "tim-peterson-videojs-playlist",
+  "version": "0.0.1",
+  "homepage": "https://github.com/prplx/videojs-playlist",
+  "description": "Videojs playlist plugin.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "videojs": "~5.10.4"
+  }
+
+}
