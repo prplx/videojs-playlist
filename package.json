@@ -1,8 +1,19 @@
 {
-  "name": "videojs-playlist",
-  "description": "playlist plugin for video.js",
+  "name": "tim-peterson-videojs-playlist",
   "version": "0.0.1",
-  "peerDependencies": {
-    "video-js": "4.0"
-  }
+  "description": "Video.js playlist =================== A video-js plugin to play multiple videos or multiple audio tracks . It is [one of a growing number of plugins](https://github.com/videojs/video.js/wiki/Plugins) for the awesome [video-js library](https://github.com/videojs/video.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prplx/videojs-playlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prplx/videojs-playlist/issues"
+  },
+  "homepage": "https://github.com/prplx/videojs-playlist#readme"
 }

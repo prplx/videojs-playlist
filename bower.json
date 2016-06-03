@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "homepage": "https://github.com/prplx/videojs-playlist",
   "description": "Videojs playlist plugin.",
-  "main": "",
+  "main": [
+    "javascripts/tim-peterson-videojs-playlist.js"
+  ],
   "moduleType": [],
   "license": "MIT",
   "ignore": [
